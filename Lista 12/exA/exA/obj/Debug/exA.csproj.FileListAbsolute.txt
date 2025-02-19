@@ -1,0 +1,6 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exA\exA\bin\Debug\exA.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exA\exA\bin\Debug\exA.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exA\exA\bin\Debug\exA.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exA\exA\obj\Debug\exA.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exA\exA\obj\Debug\exA.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\exA\exA\obj\Debug\exA.pdb
