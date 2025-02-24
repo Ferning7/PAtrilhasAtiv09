@@ -1,6 +1,0 @@
-C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex10\ex10\obj\Debug\ex10.csprojResolveAssemblyReference.cache
-C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex10\ex10\bin\Debug\ex10.exe.config
-C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex10\ex10\bin\Debug\ex10.exe
-C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex10\ex10\bin\Debug\ex10.pdb
-C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex10\ex10\obj\Debug\ex10.exe
-C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\ex10\ex10\obj\Debug\ex10.pdb
